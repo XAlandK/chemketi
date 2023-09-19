@@ -37,10 +37,10 @@
     {
         "defTitleEn": "Kurdistan",
         "defTitleKu": "کوردستان",
-        "defDetail": "<p>Hello</p><a src=\"https://Kurdistan\">Click me</a>"
+        "defDetail": "<p>Hello</p><a href=\"Kurdistan\">Click me</a>"
     },
     {
-        "defTitleEn": "Kurdistan 1",
+        "defTitleEn": "Kurdistan 2",
         "defTitleKu": "کوردستان",
         "defDetail": "..."
     },
